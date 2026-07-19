@@ -1,0 +1,7 @@
+title: Team Shred Support
+description: Support, privacy, and terms for Team Shred on iPhone.
+theme: minima
+header_pages:
+  - privacy.md
+  - terms.md
+
