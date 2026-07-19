@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Team Shred Support
+title: Team Shred
 permalink: /
 ---
 
-# Team Shred Support
+# Team Shred
 
-Team Shred is a private strength-training planner, workout tracker, and adaptive coaching app for iPhone.
+Team Shred is an iPhone strength-training app that helps people build weekly workout plans, create and manage routines, log exercises, track progress, and receive adaptive coaching. Its core planner and workout tools work without an account; optional iCloud, Apple Health, and Google Health connections remain under the user's control.
 
 ## Get Help
 
@@ -32,4 +32,3 @@ Delete individual routines and workouts in Team Shred, disconnect optional provi
 
 - [Privacy Policy](privacy)
 - [Terms of Use](terms)
-
